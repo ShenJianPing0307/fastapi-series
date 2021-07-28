@@ -29,7 +29,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-**系列教程：**
+## 系列教程
 
 [Python虚拟环境搭建-学习视频教程-腾讯课堂ke.qq.com
 ![](https://upload-images.jianshu.io/upload_images/26768070-a12c979c9ca46549?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://link.zhihu.com/?target=https%3A//ke.qq.com/course/3615906%3Ftuin%3D24638831)   
